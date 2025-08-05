@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">🎓 Formado em Análise e Desenvolvimento de Sistemas pela Fametro.<br>🚀 Focado em Desenvolvimento Backend.<br>🌱 Atualmente estudando para me tornar um profissional mais completo.</p>
+<p align="left"> Formado em Análise e Desenvolvimento de Sistemas pela Fametro.<br> Focado em Desenvolvimento FullStack.<br> Atualmente estudando para me tornar um profissional mais completo.</p>
 
 ###
 
