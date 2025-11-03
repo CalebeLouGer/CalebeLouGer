@@ -1,50 +1,80 @@
-<h1 align="left">Olá! 👋 Me chamo Calebe!</h1>
-
-###
-
-<p align="left">Desenvolvedor em formação.<br><br>Tenho focado meus estudos em Programação.
- Nascido em Manaus, aos 20 anos, trago um perfil pautado na comunicação transparente e na paixão por novas perspectivas. Acredito que a verdade é a base de toda interação construtiva. Estou em constante busca por aprendizado e evolução, pronto para novas experiências que me permitam expandir minha visão e gerar impacto no ambiente profissional..</p>
-
-###
-
-<h2 align="left"> 😉Sobre mim</h2>
-
-###
-
-<p align="left"> Formado em Análise e Desenvolvimento de Sistemas pela Fametro.<br> Focado em Desenvolvimento FullStack.<br> Atualmente estudando para me tornar um profissional mais completo.</p>
-
-###
-
-<h2 align="left"> 🚀Tecnologias </h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </div>
 
+<h1 align="center">👋 Olá, eu sou o Calebe Lourenço!</h1>
 
-###
+<p align="center">
+Desenvolvedor focado em construir soluções eficientes e aprender continuamente.<br>
+Acredito na tecnologia como ferramenta para transformar ideias em realidade.
+</p>
 
-<h2 align="left">  </h2>
+---
 
-### 
+### 🚀 Tecnologias & Ferramentas
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=calebelouger&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+#### Linguagens
+<div style="display: flex; gap:10px;">
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
-###
+#### Outras ferramentas e interesses  
+- Git & GitHub  
+- Banco de dados SQL  
+- Desenvolvimento Web  
+- Programação Orientada a Objetos  
+- Projetos acadêmicos e portfólio real  
+
+---
+
+### 📂 Projetos em destaque
+
+| Nome | Descrição | Repositório |
+|------|----------|------------|
+| 🎬 ScreenMatch | App de registro de séries (Alura) | 🔗 [Acessar](https://github.com/CalebeLouGer/screenmatch-alura) |
+| 💾 Desafio Lista Java | Exercício em Java | 🔗 [Acessar](https://github.com/CalebeLouGer/desafio-java-lista) |
+| 🌐 Portfólio pessoal | Site pessoal com HTML/CSS/JS | 🔗 [Acessar](https://calebelouger.vercel.app/) |
+
+> Mais projetos em desenvolvimento — sempre buscando melhorar e aprender ✨  
+
+---
+
+### 📊 Estatísticas GitHub
+
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalebeLouGer&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CalebeLouGer&show_icons=true&theme=default)
+
+</div>
+
+---
+
+### 🔗 Conecte-se comigo
+
+<p align="left">
+<a href="https://www.linkedin.com/in/calebelouger" target="_blank">
+<img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+</a>
+</p>
+
+📩 **E-mail:** calebelourenco581@gmail.com  
+
+---
+
+### 💡 Sobre mim
+
+- Desenvolvedor em crescimento constante  
+- Comunicativo, participativo e motivado por desafios  
+- Sempre buscando novas perspectivas e aprendizados  
+
+> 🚀 _"Cada linha de código é um passo em direção ao meu objetivo profissional."_
+
+---
+
+⭐ *Se gostou do meu trabalho, não esqueça de dar uma estrela nos repositórios!*
