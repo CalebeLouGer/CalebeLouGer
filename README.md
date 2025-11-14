@@ -37,7 +37,7 @@ Acredito na tecnologia como ferramenta para transformar ideias em realidade.
 | Nome | Descrição | Repositório |
 |------|----------|------------|
 | 🎬 ScreenMatch | App de registro de séries (Alura) | 🔗 [Acessar](https://github.com/CalebeLouGer/screenmatch-alura) |
-| 💾 Desafio Lista Java | Exercício em Java | 🔗 [Acessar](https://github.com/CalebeLouGer/desafio-java-lista) |
+| 🏙️ Consulta-CEP | Exercício em Java | 🔗 [Acessar](https://github.com/CalebeLouGer/consulta-cep) |
 | 🌐 Portfólio pessoal | Site pessoal com HTML/CSS/JS | 🔗 [Acessar](https://calebelouger.vercel.app/) |
 
 > Mais projetos em desenvolvimento — sempre buscando melhorar e aprender ✨  
