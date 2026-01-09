@@ -48,7 +48,8 @@ Acredito na tecnologia como ferramenta para transformar ideias em realidade.
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalebeLouGer&layout=compact&theme=dracula)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalebeLouGer&layout=compact&theme=dracula)  -->
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CalebeLouGer&layout=compact&theme=dracula)
 
 </div>
 
