@@ -26,7 +26,7 @@ Acredito na tecnologia como ferramenta para transformar ideias em realidade.
 #### Outras ferramentas e interesses  
 - Git & GitHub  
 - Banco de dados SQL  
-- Desenvolvimento Web  
+- Desenvolvimento BackEnd
 - Programação Orientada a Objetos  
 - Projetos acadêmicos e portfólio real  
 
@@ -36,7 +36,7 @@ Acredito na tecnologia como ferramenta para transformar ideias em realidade.
 
 | Nome | Descrição | Repositório |
 |------|----------|------------|
-| 🎬 ScreenMatch | App de registro de séries (Alura) | 🔗 [Acessar](https://github.com/CalebeLouGer/screenmatch-alura) |
+| 🩺 Vollmed API | Api para uma Clínica (Fictícia) | 🔗 [Acessar](https://github.com/CalebeLouGer/vollmed_api) |
 | 🏙️ Consulta-CEP | Exercício em Java | 🔗 [Acessar](https://github.com/CalebeLouGer/consulta-cep) |
 | 🌐 Portfólio pessoal | Site pessoal com HTML/CSS/JS | 🔗 [Acessar](https://calebelouger.vercel.app/) |
 
@@ -72,8 +72,6 @@ Acredito na tecnologia como ferramenta para transformar ideias em realidade.
 - Desenvolvedor em crescimento constante  
 - Comunicativo, participativo e motivado por desafios  
 - Sempre buscando novas perspectivas e aprendizados  
-
-> 🚀 _"Cada linha de código é um passo em direção ao meu objetivo profissional."_
 
 ---
 
