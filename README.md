@@ -1,78 +1,50 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </div>
-
-<h1 align="center">👋 Olá, eu sou o Calebe Lourenço!</h1>
-
-<p align="center">
-Desenvolvedor focado em construir soluções eficientes e aprender continuamente.<br>
-Acredito na tecnologia como ferramenta para transformar ideias em realidade.
-</p>
+<h1 align="center">Olá 👋, eu sou o Calebe</h1>
+<h3 align="center">Backend Developer em formação | Java & Spring</h3>
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
+💻 Estudante focado em **Desenvolvimento Backend com Java**
 
-#### Linguagens
-<div style="display: flex; gap:10px;">
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</div>
+📚 Atualmente estudando:
+- Java
+- Spring Boot
+- APIs REST
+- PostgreSQL
+- Segurança com Spring Security
 
-#### Outras ferramentas e interesses  
-- Git & GitHub  
-- Banco de dados SQL  
-- Desenvolvimento BackEnd
-- Programação Orientada a Objetos  
-- Projetos acadêmicos e portfólio real  
+🚀 Buscando evoluir todos os dias como desenvolvedor.
 
 ---
 
-### 📂 Projetos em destaque
+## 🚀 Tecnologias que utilizo
 
-| Nome | Descrição | Repositório |
-|------|----------|------------|
-| 🩺 Vollmed API | Api para uma Clínica (Fictícia) | 🔗 [Acessar](https://github.com/CalebeLouGer/vollmed_api) |
-| 🏙️ Consulta-CEP | Exercício em Java | 🔗 [Acessar](https://github.com/CalebeLouGer/consulta-cep) |
-| 🌐 Portfólio pessoal | Site pessoal com HTML/CSS/JS | 🔗 [Acessar](https://calebelouger.vercel.app/) |
-
-> Mais projetos em desenvolvimento — sempre buscando melhorar e aprender ✨  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ---
 
-### 📊 Estatísticas GitHub
+## 📊 Estatísticas do GitHub
 
-<div align="center">
-  
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalebeLouGer&layout=compact&theme=dracula)  -->
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CalebeLouGer&layout=compact&theme=dracula)
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalebeLouGer&layout=compact&theme=tokyonight)
+![Calebe GitHub stats](https://github-readme-stats.vercel.app/api?username=CalebeLouGer&show_icons=true&theme=tokyonight)
 
 ---
 
-### 🔗 Conecte-se comigo
+## 📚 Projetos
 
-<p align="left">
-<a href="https://www.linkedin.com/in/calebelouger" target="_blank">
-<img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
-</p>
+🔹 API de fórum com Spring Boot  
+➡️ https://github.com/CalebeLouGer/forumhub_api
 
-📩 **E-mail:** calebelourenco581@gmail.com  
+🔹 API médica com Spring Boot  
+➡️ https://github.com/CalebeLouGer/vollmed_api
 
----
-
-### 💡 Sobre mim
-
-- Desenvolvedor em crescimento constante  
-- Comunicativo, participativo e motivado por desafios  
-- Sempre buscando novas perspectivas e aprendizados  
+🔹 Portfólio pessoal <br>
+➡️ https://calebelouger.vercel.app/
 
 ---
-
-⭐ *Se gostou do meu trabalho, não esqueça de dar uma estrela nos repositórios!*
